@@ -3,6 +3,15 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Euclid-Python/Python-and-OOP/master)
 
 # Pythonic and Object-Oriented Programming
+---
+
+> Author: <a href="http://www.cosmostat.org/people/sfarrens" target="_blank" style="text-decoration:none; color: #F08080">Samuel Farrens</a>  
+> Email: <a href="mailto:samuel.farrens@cea.fr" style="text-decoration:none; color: #F08080">samuel.farrens@cea.fr</a>  
+> Year: 2019  
+> Version: 1.0
+
+---
+<br>
 
 ## Contents
 ---
