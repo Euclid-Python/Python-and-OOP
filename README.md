@@ -86,3 +86,7 @@ In order to run the tutorials offline, please follow these steps:
 
 1. [The Anatomy of a Python Class: Part I](./Classes_I.ipynb)
 1. [The Anatomy of a Python Class: Part II](./Classes_II.ipynb)
+
+### Exercise Solutions
+
+1. [Exercise Solutions](./Exercise-Solutions.ipynb)
